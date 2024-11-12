@@ -1,8 +1,8 @@
 
-## [mario](.mario/assets/mockup1.png)
+## [mario](./mario)
 
 ### Stack utilizada
 ***Front-end:*** HTML, CSS e JavaScript
 
-![](./assets/img)
+![](.mario/assets/mockup1.png)
 
